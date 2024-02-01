@@ -20,4 +20,4 @@ document.getElementById("mul").addEventListener("click", function(){
 
 document.getElementById("div").addEventListener("click", function(){
     res.value = parseFloat(num1.value) / parseFloat(num2.value);
-});k
+});
